@@ -1,0 +1,13 @@
+body{background: grey;
+ 	 font-family: arial;}
+div{
+	margin-left: 25%;
+
+}
+.box{
+	text-align: center;
+	border: solid;
+	border-color: white;
+	margin-right: 25%
+
+}
